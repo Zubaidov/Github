@@ -1,7 +1,5 @@
-print("Hello Mardum!")
+git status # showing the changes inside your files
 
-a=2
-v=2
-print(a+v)
+git add [name of the file].fornat - # you adding  a new file
 
-#this is a comment
+git commit -m "Second commit" [name of the file].fornat
