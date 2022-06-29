@@ -1,0 +1,11 @@
+1. git init #starting a git functionality in a current folder
+
+2. git config --global user.eamil [your email which connected to the git]
+
+3. git status # showing the changes inside your files
+
+4. git add [name of the file].fornat - # you adding  a new file
+
+5. git commit -m "Second commit" [name of the file].fornat #commenting after addind file to the git
+
+6. git push -u origin main #pushing your git data to your github
