@@ -1,4 +1,5 @@
-# github
-Testing_GIT
+# GITHUB
+##GITHUB commands in one python file
 
-Hello World!
+maybe it's not clear enough for now,
+but later we will improve it
